@@ -1,7 +1,5 @@
 <h3 align="center">
   MountNugget for <a href="https://iterm2.com">iTerm2</a>
-
-  <img src="https://imgur.com/1UM5ZkS.png" title="Tmux mountnugget colorscheme" style="width: 100%; max-width: 600px; text-align: center;"/>
 </h3>
 
 ## Installation
